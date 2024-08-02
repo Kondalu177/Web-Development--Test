@@ -1,5 +1,5 @@
 
--> Run Command  npm start
+-> Run Command  npm start <br>
 -> In Src->Components folder Create the COmponents file 
 -> paths.js file shows routes of the components 
 -> Charts.js file Shows Line chart code.
